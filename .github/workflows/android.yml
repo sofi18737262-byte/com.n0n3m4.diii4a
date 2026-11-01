@@ -3,7 +3,7 @@
 name: Android apk CI(arm64-v8a 64-bit only)
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
   push:
     branches: [ "master" ]
     paths:
