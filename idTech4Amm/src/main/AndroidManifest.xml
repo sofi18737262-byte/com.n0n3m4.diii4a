@@ -63,7 +63,7 @@
 
     <!--android:debuggable="true"-->
     <application
-        android:icon="@drawable/icon"
+        android:icon="@drawable/icon_pinkvalley"
         android:largeHeap="true"
         android:label="@string/app_name"
         android:appCategory="game"
