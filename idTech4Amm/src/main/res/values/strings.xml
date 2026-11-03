@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name" translatable="false">idTech4A++</string>
-    <string name="app_title" translatable="false">idTech4A++</string>
+    <string name="app_name" translatable="false">The Pink Valley</string>
+    <string name="app_title" translatable="false">The Pink Valley</string>
     <string name="menu_settings">Settings</string>    
     <string name="config_editor_name">Configure Editor</string>
     <string name="key_config_page_name">OnScreen Button Configure</string>
